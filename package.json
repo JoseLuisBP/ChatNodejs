@@ -1,0 +1,11 @@
+{
+    "name": "chatnodejs",
+    "version": "0.1.0",
+    "description": "seguimiento de tutorial de chat desarrollado en Node.js",
+    "main": "app.js",
+    "author": "Mario Perez Esteso",
+    "dependencies": {
+        "express": "~3.2.4",
+        "socket.io": "~0.9.14"
+    }
+}
